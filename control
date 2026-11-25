@@ -1,0 +1,9 @@
+Package: com.coddervi.freemulo
+Name: FreeMulo
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: FreeMulo NFC utility research scaffold
+Maintainer: coddervi
+Author: coddervi
+Section: Tweaks
+Depends: mobilesubstrate
